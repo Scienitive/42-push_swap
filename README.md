@@ -2,7 +2,7 @@
 
 **Score: 96/100**
 
-**This project is about sorting some set of numbers using only 2 stacks and some strict rules.**
+This project is about sorting some set of numbers using only 2 stacks and some strict rules.
 
 ## Rules
 
